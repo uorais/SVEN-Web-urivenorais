@@ -7,7 +7,7 @@ Uses Vue 3 + Vuetify frontend and a Laravel backend API.
 ## Prerequisites
 
 - PHP >= 8.0
-- Node.js >= 18
+- Node.js >= 18.20
 - MySQL or compatible database
 
 ---
@@ -19,6 +19,7 @@ Uses Vue 3 + Vuetify frontend and a Laravel backend API.
    ```bash
    cd path/to/project/api
    composer install
+   composer dump-autoload
 
 2. Copy .env.example to .env and configure database credentials:
 
