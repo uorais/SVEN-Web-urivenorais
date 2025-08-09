@@ -16,7 +16,7 @@ Uses Vue 3 + Vuetify frontend and a Laravel backend API.
 
 1. Install dependencies:
 
-   cd pawtastic/api
+   cd path/to/project/api
    composer install
 
 2. Copy .env.example to .env and configure database credentials:
@@ -38,7 +38,7 @@ Uses Vue 3 + Vuetify frontend and a Laravel backend API.
 
 1. Install dependencies:
 
-   cd pawtastic/app
+   cd path/to/project/app
    npm install
 
 2. Start development server:
